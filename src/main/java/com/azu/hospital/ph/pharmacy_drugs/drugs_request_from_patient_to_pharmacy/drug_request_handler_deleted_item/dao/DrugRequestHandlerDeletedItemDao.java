@@ -1,0 +1,8 @@
+package com.azu.hospital.ph.pharmacy_drugs.drugs_request_from_patient_to_pharmacy.drug_request_handler_deleted_item.dao;
+
+import com.azu.hospital.ph.pharmacy_drugs.drugs_request_from_patient_to_pharmacy.drug_request_handler_deleted_item.entity.DrugRequestHandlerDeletedItem;
+
+public interface DrugRequestHandlerDeletedItemDao {
+
+    void addDrugRequestHandlerDeleteItem(DrugRequestHandlerDeletedItem deletedItem);
+}

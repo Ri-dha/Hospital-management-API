@@ -1,0 +1,2 @@
+error:
+  idNotFound: Resource with id {0} not found
