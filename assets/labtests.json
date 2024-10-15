@@ -1,0 +1,802 @@
+[
+    {
+        "name": "ACTH (Adreno Corticotropic Hormone) Test"
+        
+    },
+    {
+        "name": "Adenosine Deaminase Test"
+        
+    },
+    {
+        "name": "AEC (Absolute Eosinophil Count) Test"
+        
+    },
+    {
+        "name": "AFB (Acid Fast Bacilli) Culture Test"
+        
+    },
+    {
+        "name": "AFP (Alpha Feto Protein) Test"
+        
+    },
+    {
+        "name": "Alberts Stain"
+        
+    },
+    {
+        "name": "Albumin Test"
+        
+    },
+    {
+        "name": "Aldolase Test"
+        
+    },
+    {
+        "name": "Alkaline Phosphatase (ALP) Test"
+        
+    },
+    {
+        "name": "Allergy Test"
+        
+    },
+    {
+        "name": "Ammonia Test"
+        
+    },
+    {
+        "name": "Amylase Test"
+        
+    },
+    {
+        "name": "ANA (Antinuclear Antibody) Test"
+        
+    },
+    {
+        "name": "ANC Profile"
+        
+    },
+    {
+        "name": "ANCA Profile"
+        
+    },
+    {
+        "name": "Anti CCP (ACCP) Test"
+        
+    },
+    {
+        "name": "Anti Phospholipid (APL) Test"
+        
+    },
+    {
+        "name": "Anti TPO Test"
+        
+    },
+    {
+        "name": "Anti-Mullerian Hormone (AMH) Test"
+        
+    },
+    {
+        "name": "Antithyroglobulin Antibody Test"
+        
+    },
+    {
+        "name": "Antithyroid Microsomal Antibody (AMA) Test"
+        
+    },
+    {
+        "name": "APTT (Activated Partial Thromboplastin Time) Test"
+        
+    },
+    {
+        "name": "Arterial Blood Gas (ABG)"
+        
+    },
+    {
+        "name": "Ascitic Fluid Test"
+        
+    },
+    {
+        "name": "ASO Test"
+        
+    },
+    {
+        "name": "Audiometry Test"
+        
+    },
+    {
+        "name": "Beta HCG Test"
+        
+    },
+    {
+        "name": "Beta Thalassemia Test"
+        
+    },
+    {
+        "name": "Bicarbonate Test"
+        
+    },
+    {
+        "name": "Bilirubin Test"
+        
+    },
+    {
+        "name": "Biopsy"
+        
+    },
+    {
+        "name": "Bleeding \/ Clotting Time Test"
+        
+    },
+    {
+        "name": "Blood Culture Test"
+        
+    },
+    {
+        "name": "Blood Group Test"
+        
+    },
+    {
+        "name": "Blood Sugar Test"
+        
+    },
+    {
+        "name": "Blood Urea Nitrogen Test"
+        
+    },
+    {
+        "name": "Bone Density Test \/ Dexa Scan"
+        
+    },
+    {
+        "name": "C-Peptide Test"
+        
+    },
+    {
+        "name": "CA 15.3 Test"
+        
+    },
+    {
+        "name": "CA 19.9 Test"
+        
+    },
+    {
+        "name": "CA 27.29 Test"
+        
+    },
+    {
+        "name": "CA-125 (Tumor Marker) Test"
+        
+    },
+    {
+        "name": "Calcium Test"
+        
+    },
+    {
+        "name": "Carbamazepine (Tegretol) Test"
+        
+    },
+    {
+        "name": "Cardiolipin Antibodies (ACL)"
+        
+    },
+    {
+        "name": "CBC \/ Hemogram Test"
+        
+    },
+    {
+        "name": "CD4 Test"
+        
+    },
+    {
+        "name": "CEA (Carcinoembryonic Antigen) Test"
+        
+    },
+    {
+        "name": "Cerebral Spinal Fluid (CSF) Test"
+        
+    },
+    {
+        "name": "Chikungunya Test"
+        
+    },
+    {
+        "name": "Chlamydia Test"
+        
+    },
+    {
+        "name": "Chloride Test"
+        
+    },
+    {
+        "name": "Cholesterol Test"
+        
+    },
+    {
+        "name": "CK-MB Test"
+        
+    },
+    {
+        "name": "Color Doppler"
+        
+    },
+    {
+        "name": "Complement C3"
+        
+    },
+    {
+        "name": "Complement C4"
+        
+    },
+    {
+        "name": "Coombs Test"
+        
+    },
+    {
+        "name": "Cortisol Test"
+        
+    },
+    {
+        "name": "CPK (Creatine Phosphokinase) Test"
+        
+    },
+    {
+        "name": "Creatinine Clearance Test"
+        
+    },
+    {
+        "name": "Creatinine Test"
+        
+    },
+    {
+        "name": "CRP (C-Reactive Protein) Test"
+        
+    },
+    {
+        "name": "Cryptococcal Antigen Test"
+        
+    },
+    {
+        "name": "CT Scan"
+        
+    },
+    {
+        "name": "Cytomegalovirus (CMV) Test"
+        
+    },
+    {
+        "name": "D Dimer Test"
+        
+    },
+    {
+        "name": "Dengue IgG Test"
+        
+    },
+    {
+        "name": "Dengue IgM Test"
+        
+    },
+    {
+        "name": "Dengue NS1 Test"
+        
+    },
+    {
+        "name": "DHEA Test"
+        
+    },
+    {
+        "name": "DMSA Scan"
+        
+    },
+    {
+        "name": "DNA Test"
+        
+    },
+    {
+        "name": "Double Marker Test"
+        
+    },
+    {
+        "name": "ECG"
+        
+    },
+    {
+        "name": "EEG"
+        
+    },
+    {
+        "name": "Electrolytes Test"
+        
+    },
+    {
+        "name": "Electromyography (EMG)"
+        
+    },
+    {
+        "name": "ESR (Erythrocyte Sedimentation Rate) Test"
+        
+    },
+    {
+        "name": "Estradiol (E2) Test"
+        
+    },
+    {
+        "name": "Factor V Leiden Test"
+        
+    },
+    {
+        "name": "Ferritin Test"
+        
+    },
+    {
+        "name": "FNAC Test"
+        
+    },
+    {
+        "name": "Folic Acid Test"
+        
+    },
+    {
+        "name": "FSH (Follicle Stimulating Hormone) Test"
+        
+    },
+    {
+        "name": "Fungal Culture Test"
+        
+    },
+    {
+        "name": "G6PD Test"
+        
+    },
+    {
+        "name": "Gallium Scan"
+        
+    },
+    {
+        "name": "Gamma GT (GGTP) Test"
+        
+    },
+    {
+        "name": "Globulin \/ AG Ratio"
+        
+    },
+    {
+        "name": "Globulin Test"
+        
+    },
+    {
+        "name": "Glucose Tolerance Test (GTT)"
+        
+    },
+    {
+        "name": "Gram Stain Test"
+        
+    },
+    {
+        "name": "HbA1C Test"
+        
+    },
+    {
+        "name": "HBeAb (Hepatitis B Antibody)"
+        
+    },
+    {
+        "name": "HBsAg Test"
+        
+    },
+    {
+        "name": "HCV Antibody Test"
+        
+    },
+    {
+        "name": "HDL Cholesterol"
+        
+    },
+    {
+        "name": "Helicobacter Pylori Test"
+        
+    },
+    {
+        "name": "Hemoglobin (Hb) Test"
+        
+    },
+    {
+        "name": "Hemoglobin Electrophoresis"
+        
+    },
+    {
+        "name": "Hepatitis A Test"
+        
+    },
+    {
+        "name": "Hepatitis E Test"
+        
+    },
+    {
+        "name": "Herpes Simplex Virus (HSV) Test"
+        
+    },
+    {
+        "name": "HGH Test"
+        
+    },
+    {
+        "name": "HIDA Scan"
+        
+    },
+    {
+        "name": "HIV Test"
+        
+    },
+    {
+        "name": "HLA B27 Test"
+        
+    },
+    {
+        "name": "Homocysteine Test"
+        
+    },
+    {
+        "name": "HSG Test"
+        
+    },
+    {
+        "name": "Insulin Test"
+        
+    },
+    {
+        "name": "Iron Test"
+        
+    },
+    {
+        "name": "Karyotype Test"
+        
+    },
+    {
+        "name": "Kidney \/ Renal Function Test"
+        
+    },
+    {
+        "name": "L. E. Cells Test"
+        
+    },
+    {
+        "name": "LDH (Lactate Dehydrogenase) Test"
+        
+    },
+    {
+        "name": "LDL Cholesterol"
+        
+    },
+    {
+        "name": "LH (Luteinizing Hormone) Test"
+        
+    },
+    {
+        "name": "Lipase Test"
+        
+    },
+    {
+        "name": "Lipid Profile"
+        
+    },
+    {
+        "name": "Lipoprotein A \/ LP(a) Test"
+        
+    },
+    {
+        "name": "Lithium Test"
+        
+    },
+    {
+        "name": "Liver Function Test (LFT)"
+        
+    },
+    {
+        "name": "Lupus Anticoagulant (LAC) Test"
+        
+    },
+    {
+        "name": "Magnesium Test"
+        
+    },
+    {
+        "name": "Malaria (Malarial Parasite) Test"
+        
+    },
+    {
+        "name": "Mammography"
+        
+    },
+    {
+        "name": "Mantoux Test"
+        
+    },
+    {
+        "name": "Microalbumin Test"
+        
+    },
+    {
+        "name": "Microfilaria Parasite Test"
+        
+    },
+    {
+        "name": "PAP Smear"
+        
+    },
+    {
+        "name": "Paratyphi Test"
+        
+    },
+    {
+        "name": "PCV (Packed Cell Volume) Test"
+        
+    },
+    {
+        "name": "Peripheral Blood Smear Test"
+        
+    },
+    {
+        "name": "Phosphorus Test"
+        
+    },
+    {
+        "name": "Plasma Lactate (Lactic Acid) Test"
+        
+    },
+    {
+        "name": "Platelet Count"
+        
+    },
+    {
+        "name": "Pleural Fluid Analysis"
+        
+    },
+    {
+        "name": "Potassium Test"
+        
+    },
+    {
+        "name": "Pregnancy Test"
+        
+    },
+    {
+        "name": "Progesterone Test"
+        
+    },
+    {
+        "name": "Prolactin Test"
+        
+    },
+    {
+        "name": "Protein Test"
+        
+    },
+    {
+        "name": "Protein\/Creatinine Ratio"
+        
+    },
+    {
+        "name": "PSA (Prostate Specific Antigen) Test"
+        
+    },
+    {
+        "name": "PT (Prothrombin Time) Test"
+        
+    },
+    {
+        "name": "PTH (Parathyroid Hormone) Test"
+        
+    },
+    {
+        "name": "Pulmonary Function Test (PFT)"
+        
+    },
+    {
+        "name": "Renal Profile"
+        
+    },
+    {
+        "name": "Renal Scan \/ Kidney Scan"
+        
+    },
+    {
+        "name": "Reticulocyte Count Test"
+        
+    },
+    {
+        "name": "Rheumatoid Arthritis (RA) Factor Test"
+        
+    },
+    {
+        "name": "Rubella Test"
+        
+    },
+    {
+        "name": "Semen Analysis Test"
+        
+    },
+    {
+        "name": "Sex Hormone Test"
+        
+    },
+    {
+        "name": "SGOT Test"
+        
+    },
+    {
+        "name": "SGPT Test"
+        
+    },
+    {
+        "name": "Sickling Test"
+        
+    },
+    {
+        "name": "Sodium Test"
+        
+    },
+    {
+        "name": "Sonography (Ultrasound \/ USG)"
+        
+    },
+    {
+        "name": "Sonomamography \/ Sonomamogram"
+        
+    },
+    {
+        "name": "Sperm DNA Fragmentation"
+        
+    },
+    {
+        "name": "Sputum Culture"
+        
+    },
+    {
+        "name": "Sputum Routine Test"
+        
+    },
+    {
+        "name": "Stool Culture"
+        
+    },
+    {
+        "name": "Stool Routine"
+        
+    },
+    {
+        "name": "Stress Echo Test"
+        
+    },
+    {
+        "name": "Stress Test (TMT)"
+        
+    },
+    {
+        "name": "Swine Flu Test (H1N1)"
+        
+    },
+    {
+        "name": "Synovial Fluid Analysis"
+        
+    },
+    {
+        "name": "T3 (Triiodothyronine) Test"
+        
+    },
+    {
+        "name": "T4 (Thyroxine) Test"
+        
+    },
+    {
+        "name": "TB Test"
+        
+    },
+    {
+        "name": "Testosterone Test"
+        
+    },
+    {
+        "name": "Thallium Scan"
+        
+    },
+    {
+        "name": "Thyroglobulin Test"
+        
+    },
+    {
+        "name": "Thyroid Scan"
+        
+    },
+    {
+        "name": "Thyroid Test"
+        
+    },
+    {
+        "name": "TORCH Test"
+        
+    },
+    {
+        "name": "Total Protein Test"
+        
+    },
+    {
+        "name": "Toxoplasma Test"
+        
+    },
+    {
+        "name": "Transferrin Test"
+        
+    },
+    {
+        "name": "Triglycerides Test"
+        
+    },
+    {
+        "name": "Triple Marker Test"
+        
+    },
+    {
+        "name": "S. Troponin Test"
+        
+    },
+    {
+        "name": "TSH (Thyroid Stimulating Hormone) Test"
+        
+    },
+    {
+        "name": "Typhidot Test"
+        
+    },
+    {
+        "name": "Urea Test"
+        
+    },
+    {
+        "name": "Uric Acid Test"
+        
+    },
+    {
+        "name": "Urine Culture"
+        
+    },
+    {
+        "name": "Urine Routine"
+        
+    },
+    {
+        "name": "Valproic Acid"
+        
+    },
+    {
+        "name": "VDRL Test"
+        
+    },
+    {
+        "name": "Vitamin A Test"
+        
+    },
+    {
+        "name": "Vitamin B12 Test"
+        
+    },
+    {
+        "name": "Vitamin C Test"
+        
+    },
+    {
+        "name": "Vitamin D Test"
+        
+    },
+    {
+        "name": "Vitamin E Test"
+        
+    },
+    {
+        "name": "VLDL Test"
+        
+    },
+    {
+        "name": "Widal Test"
+        
+    }
+]

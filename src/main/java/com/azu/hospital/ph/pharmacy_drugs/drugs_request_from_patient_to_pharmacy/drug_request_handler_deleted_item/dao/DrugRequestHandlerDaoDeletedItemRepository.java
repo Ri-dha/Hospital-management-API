@@ -1,0 +1,9 @@
+package com.azu.hospital.ph.pharmacy_drugs.drugs_request_from_patient_to_pharmacy.drug_request_handler_deleted_item.dao;
+
+import com.azu.hospital.ph.pharmacy_drugs.drugs_request_from_patient_to_pharmacy.drug_request_handler_deleted_item.entity.DrugRequestHandlerDeletedItem;
+import jakarta.transaction.Transactional;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+@Transactional
+public interface DrugRequestHandlerDaoDeletedItemRepository extends JpaRepository<DrugRequestHandlerDeletedItem,Long> {
+}

@@ -1,0 +1,19 @@
+package com.azu.hospital.Patients.charts.physical_assessment_enm;
+
+public enum MedicalCondition {
+  PNEUMONIA,
+  HEAD_INJURIES,
+  BONE_JOINT_DISEASE,
+  HAY_FEVER_ASTHMA,
+  CANCER,
+  HYPERTENSION,
+  HEART_DISEASE,
+  HEPATITIS_B_OR_C,
+  DIABETES,
+  DENTAL_IMPLANTS,
+  RHEUMATIC_FEVER,
+  BACK_NECK_INJURIES,
+  ANEMIA,
+  BLEEDING_DISORDERS
+}
+
